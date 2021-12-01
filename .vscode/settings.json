@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "unistd.h": "c"
+    },
+    "editor.formatOnSave": true
+
+}

@@ -1,0 +1,5 @@
+break sol1.c:33
+break sol1.c:53
+break sol1.c:55
+
+set exec-wrapper The wrapper for running programs is \
