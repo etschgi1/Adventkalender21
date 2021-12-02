@@ -3,6 +3,7 @@
         "*.cpp": "cpp",
         "unistd.h": "c"
     },
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "python.pythonPath": "/bin/python3.9"
 
 }
