@@ -1,5 +1,4 @@
 FILENAME = "./input.txt"
-FILENAME2 = "./input_test.txt"
 horizontal_pos = 0
 depth = 0
 
