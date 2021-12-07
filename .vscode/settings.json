@@ -4,6 +4,5 @@
         "unistd.h": "c"
     },
     "editor.formatOnSave": true,
-    "python.pythonPath": "/bin/python3.9"
-
+    "python.pythonPath": "/bin/python3"
 }
