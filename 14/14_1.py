@@ -1,4 +1,4 @@
-STEPS = 10
+STEPS = 40
 
 
 def polymerization(polymer, Rules):
@@ -19,7 +19,7 @@ def polymerization(polymer, Rules):
 def main(polymer, rules):
     Rules = {x[:2]: x[-1] for x in rules}
     for i in range(STEPS):
-        # print(polymer)
+        print(polymer)
         polymer = polymerization(polymer, Rules)
     counts = {}
     for c in polymer:  # find most and least common
